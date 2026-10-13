@@ -1,0 +1,5 @@
+name = input("Ente your name: ")
+print("Welcome", name)
+task = input("Enter a task:  ")
+print("Your task:  ", task)
+print("Bye")
